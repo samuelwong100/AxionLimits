@@ -1,7 +1,7 @@
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3932430.svg)](https://doi.org/10.5281/zenodo.3932430)
 
-The purpose of this website is to host data files and python notebooks to create limit plots on axions, axion-like particles and dark photons. Please email me [ciaran.aj.ohare@gmail.com] if you have any questions/comments/complaints. I greatly appreciate corrections to anything here, no matter how minor or trivial. Please also inform me if a limit you have made isn't here, usually it will just be because I missed it. Also if you have made one of the limits shown here and it has been revised (e.g. in a v2 of the paper) please let me know as I am much more likely to have missed the update.
+The purpose of this website is to host data files and python notebooks to create limit plots on axions, axion-like particles, dark photons, and other ultralight bosons. Please email me [ciaran.aj.ohare@gmail.com] if you have any questions/comments/complaints. I greatly appreciate corrections to anything here, no matter how minor or trivial. Please also inform me if a limit you have made isn't here, usually it will just be because I missed it. Also if you have made one of the limits shown here and it has been revised (e.g. in a v2 of the paper) please let me know as I am much more likely to have missed the update.
 
 Please go to [refs/](refs/README.md) to see a full list of all references, including a .tex and .bib file with all citation details collected from Inspire.
 
@@ -90,18 +90,17 @@ Plot with projections ([pdf](https://github.com/cajohare/AxionLimits/raw/master/
 
 ---
 
-[<img align="right" width="300" src="plots/plots_png/AxionPhoton_RadioFreqCloseup_withTheory.png">](docs/am.md)
+[<img align="right" width="300" src="plots/plots_png/AxionMass.png">](docs/am.md)
 
 # [**Axion DM predictions**](docs/am.md)
 [**Data files**](docs/am.md)\
-Plot ([pdf](https://github.com/cajohare/AxionLimits/raw/master/plots/AxionPhoton_RadioFreqCloseup_withTheory.pdf), [png](https://github.com/cajohare/AxionLimits/raw/master/plots/plots_png/AxionPhoton_RadioFreqCloseup_withTheory.png))\
+Plot ([pdf](https://github.com/cajohare/AxionLimits/raw/master/plots/AxionMass.pdf), [png](https://github.com/cajohare/AxionLimits/raw/master/plots/plots_png/AxionMass.png))\
    &nbsp; \
    &nbsp; \
    &nbsp; \
-   &nbsp; \
-      &nbsp; \
-         &nbsp; \
-  &nbsp;
+    &nbsp; \
+        &nbsp; \
+   &nbsp;
 
 ---
 
@@ -113,6 +112,80 @@ Plot ([pdf](https://github.com/cajohare/AxionLimits/raw/master/plots/DarkPhoton.
    &nbsp; \
   &nbsp; \
    &nbsp; \
+  &nbsp;
+
+---
+
+[<img align="right" width="300" src="plots/plots_png/ScalarPhoton_with_Projections.png">](docs/phie.md)
+
+# [**Scalar-photon coupling**](docs/phie.md)
+[**Data files**](docs/phie.md)\
+Plot ([pdf](https://github.com/cajohare/AxionLimits/raw/master/plots/ScalarPhoton_with_Projections.png), [png](https://github.com/cajohare/AxionLimits/raw/master/plots/plots_png/ScalarPhoton_with_Projections.png))\
+   &nbsp; \
+  &nbsp; \
+   &nbsp; 
+
+---
+
+[<img align="right" width="300" src="plots/plots_png/ScalarElectron_with_Projections.png">](docs/phime.md)
+
+# [**Scalar-electron coupling**](docs/phime.md)
+[**Data files**](docs/phime.md)\
+Plot ([pdf](https://github.com/cajohare/AxionLimits/raw/master/plots/ScalarElectron_with_Projections.png), [png](https://github.com/cajohare/AxionLimits/raw/master/plots/plots_png/ScalarElectron_with_Projections.png))\
+   &nbsp; \
+  &nbsp; \
+   &nbsp; 
+
+---
+
+[<img align="right" width="300" src="plots/plots_png/VectorB-L_with_Projections.png">](docs/gBL.md)
+
+# [**Vector B-L coupling**](docs/gBL.md)
+[**Data files**](docs/gBL.md)\
+Plot ([pdf](https://github.com/cajohare/AxionLimits/raw/master/plots/VectorB-L_with_Projections.pdf), [png](https://github.com/cajohare/AxionLimits/raw/master/plots/plots_png/VectorB-L_with_Projections.png))\
+   &nbsp; \
+  &nbsp; \
+   &nbsp; 
+
+---
+
+[<img align="right" width="300" src="plots/plots_png/AxionPhoton_FIPS.png">](docs/fips.md)
+
+# [**FIPS Workshop plots**](docs/fips.md)
+Plot ([pdf](https://github.com/cajohare/AxionLimits/raw/master/plots/AxionPhoton_FIPS.pdf), [png](https://github.com/cajohare/AxionLimits/raw/master/plots/plots_png/AxionPhoton_FIPS.png))\
+   &nbsp; \
+  &nbsp; \
+   &nbsp; \
+  &nbsp;
+
+---
+
+[<img align="right" width="300" src="plots/plots_png/Cheatsheet.png">](docs/cs.md)
+
+# [**Dark matter cheatsheet**](docs/cs.md)
+[**Data files**](docs/cs.md)\
+Plot ([pdf](https://github.com/cajohare/AxionLimits/raw/master/plots/Cheatsheet.pdf), [png](https://github.com/cajohare/AxionLimits/raw/master/plots/plots_png/Cheatsheet.png))\
+   &nbsp; \
+  &nbsp; \
+   &nbsp; \
+   &nbsp; \
+  &nbsp; \
+   &nbsp; \
+      &nbsp; \
+  &nbsp; \
+   &nbsp; \
+     &nbsp; \
+   &nbsp; \
+      &nbsp; \
+  &nbsp;
+
+---
+
+[<img align="right" width="300" src="plots/Wavy_Map.png">](https://github.com/cajohare/AxionLimits/raw/master/plots/Wavy_Map.png)
+# **Experiment map**
+Work in progress (comments welcome)\
+Download [png image](https://github.com/cajohare/AxionLimits/raw/master/plots/Wavy_Map.png)\
+Download [keynote file](https://github.com/cajohare/AxionLimits/raw/master/plots/Wavy_Map.key)\
   &nbsp;
 
 ---
@@ -133,4 +206,4 @@ If you use something here, you can give credit by citing the zenodo DOI attached
 
 
 # Acknowledgements
-**Thank you to**: Masha Baryakhtar, Max Berbig, Itay Bloch, Andrea Caputo, Raphael Cervantes, Raymond Co, Chris Dessert, Akash Dixit, Babette Döbrich, Claudio Gatti, Maurizio Giannotti, Alexander Gramolin, Josh Foster, Fred Hiskins, Sebastian Hoof, Stefan Knirck, Hai-Jun Li, Jesse Liu, Laura Manenti, David Marsh, Alex Millar, Viraf Mehta, Pablo Quílez, Javier Redondo, Alessio Rettaroli, Andreas Ringwald, Giuseppe Ruoso, Gray Rybka, Jan Schuette-Engel, Ivo Schulthess, Philip Sørensen, Fuminobu Takahashi, Mike Tobar, Caner Ünal, Edoardo Vitagliano, Sam Witte, and Byeongsu Yang for comments, corrections and suggestions that have greatly helped improve these plots.
+**Thank you to**: Masha Baryakhtar, Max Berbig, Itay Bloch, Andrea Caputo, Raphael Cervantes, Raymond Co, Chris Dessert, Akash Dixit, Babette Döbrich, Claudio Gatti, Sumita Ghosh, Maurizio Giannotti, Alexander Gramolin, Josh Foster, Fred Hiskins, Sebastian Hoof, Derek Jackson-Kimball, Stefan Knirck, Kazunori Kohri, Hai-Jun Li, Jesse Liu, Jack Manley, Laura Manenti, Giacomo Marocco, David Marsh, Javier Miguel Hernandez, Alex Millar, Viraf Mehta, Dion Noordhuis, Nadav Outmezguine, Giovanni Pierobon, Pablo Quílez, Javier Redondo, Alessio Rettaroli, Andreas Ringwald, Nick Rodd, Giuseppe Ruoso, Gray Rybka, Isaac Sarnoff, Jan Schuette-Engel, Ivo Schulthess, Philip Sørensen, Konstantin Springmann, Fuminobu Takahashi, Mike Tobar, Caner Ünal, Edoardo Vitagliano, Arne Wickenbrock, Sam Witte, Huangyu Xiao, Byeongsu Yang and Wen Yin for comments, corrections and suggestions that have greatly helped improve these plots.

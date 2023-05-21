@@ -29,6 +29,7 @@
 
 ### Underground detectors
 * DARWIN: [projection](https://github.com/cajohare/AxionLimits/raw/master/limit_data/AxionElectron/Projections/DARWIN.txt), [reference](https://arxiv.org/abs/1606.07001)
+* DarkSide-50: [limit](https://github.com/cajohare/AxionLimits/raw/master/limit_data/AxionElectron/DarkSide.txt), [reference](https://arxiv.org/abs/2207.11968)
 * EDELWEISS: [limit](https://github.com/cajohare/AxionLimits/raw/master/limit_data/AxionElectron/EDELWEISS.txt), [projection](https://github.com/cajohare/AxionLimits/raw/master/limit_data/AxionElectron/Projections/EDELWEISS.txt), [reference](https://arxiv.org/abs/1808.02340)
 * GERDA: [limit](https://github.com/cajohare/AxionLimits/raw/master/limit_data/AxionElectron/GERDA.txt), [reference](https://arxiv.org/abs/2005.14184)
 * LUX: [limit](https://github.com/cajohare/AxionLimits/raw/master/limit_data/AxionElectron/LUX.txt), [reference](https://arxiv.org/abs/1704.02297)
@@ -40,19 +41,19 @@
 * XENON1T (ALP DM search S1+S2): [limit](https://github.com/cajohare/AxionLimits/raw/master/limit_data/AxionElectron/XENON1T_DM_S1S2.txt), [reference](https://arxiv.org/abs/2006.09721)
 * XENON1T (ALP DM search single electron): [limit](https://github.com/cajohare/AxionLimits/raw/master/limit_data/AxionElectron/XENON1T_DM_SE.txt), [reference](https://arxiv.org/abs/2112.12116)
 * XENON1T (Solar axion basin): [limit](https://github.com/cajohare/AxionLimits/raw/master/limit_data/AxionElectron/XENON1T_S2_SolarAxionBasin.txt), [reference](https://arxiv.org/abs/2006.12431)
-* XENONnT (ALP DM): [limit](https://github.com/cajohare/AxionLimits/raw/master/limit_data/AxionElectron/XENONnT.txt), [reference](http://xenonexperiment.org/)
-* XENONnT (Solar axions): [limit](https://github.com/cajohare/AxionLimits/raw/master/limit_data/AxionElectron/XENONnT_Solar.txt), [reference](http://xenonexperiment.org/)
+* XENONnT (ALP DM): [limit](https://github.com/cajohare/AxionLimits/raw/master/limit_data/AxionElectron/XENONnT.txt), [reference](https://arxiv.org/abs/2207.11330)
+* XENONnT (Solar axions): [limit](https://github.com/cajohare/AxionLimits/raw/master/limit_data/AxionElectron/XENONnT_Solar.txt), [reference](https://arxiv.org/abs/2207.11330)
 
 
 ### Haloscopes:
-<!---* Electron spin magnetometers:  [projection](https://github.com/cajohare/AxionLimits/raw/master/limit_data/AxionElectron/Projections/ElectronSpinMagnetometers.txt), (in prep.)-->
 * Axion-magnon conversion:  [projection](https://github.com/cajohare/AxionLimits/raw/master/limit_data/AxionElectron/Projections/Magnon.txt),  [reference](https://arxiv.org/abs/2005.10256)
 * Axion-magnon conversion (scanning):  [projection](https://github.com/cajohare/AxionLimits/raw/master/limit_data/AxionElectron/Projections/MagnonScan.txt),  [reference1](https://arxiv.org/abs/2005.10256),  [reference2](https://arxiv.org/abs/2001.10666)
-* Magnon nondemolition:  [limit](https://github.com/cajohare/AxionLimits/raw/master/limit_data/AxionElectron/Magnons.txt),  [reference](https://arxiv.org/abs/2102.08764)
+* Magnon quantum nondemolition:  [limit](https://github.com/cajohare/AxionLimits/raw/master/limit_data/AxionElectron/Magnons.txt),  [reference](https://arxiv.org/abs/2102.08764)
+* NV Centers [limit](https://github.com/cajohare/AxionLimits/raw/master/limit_data/AxionElectron/Projections/NVCenters.txt), [reference](https://arxiv.org/abs/2302.12756)
 * QUAX:  [limit](https://github.com/cajohare/AxionLimits/raw/master/limit_data/AxionElectron/QUAX.txt),  [reference 2018](https://arxiv.org/abs/1806.00310), [reference 2020](https://arxiv.org/abs/2001.08940)
 
 ### Astro bounds:
-
+* Freeze-in ALPs (irreducible axions): [limit](https://github.com/cajohare/AxionLimits/raw/master/limit_data/AxionElectron/IrreducibleFreezeIn.txt), [reference](https://arxiv.org/abs/2209.06216)
 * Red giant branch: [limit](https://github.com/cajohare/AxionLimits/raw/master/limit_data/AxionElectron/RedGiants.txt), [reference](https://arxiv.org/abs/2007.03694)
 * Solar neutrinos: [limit](https://github.com/cajohare/AxionLimits/raw/master/limit_data/AxionElectron/SolarNu.txt), [reference](https://arxiv.org/abs/0807.2926)
 * White dwarf hint: [limit](https://github.com/cajohare/AxionLimits/raw/master/limit_data/AxionElectron/WDhint.txt), [reference](https://arxiv.org/abs/1708.02111)
